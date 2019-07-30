@@ -1,0 +1,2 @@
+cmake .. -G "MSYS Makefiles" -DBUILD_STATIC=1
+make
